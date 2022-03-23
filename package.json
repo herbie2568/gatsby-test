@@ -15,6 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "gatsby": "^4.10.1",
     "gatsby-plugin-image": "^2.10.0",
     "gatsby-plugin-sharp": "^4.10.1",
