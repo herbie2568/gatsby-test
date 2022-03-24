@@ -1,0 +1,20 @@
+body {
+    background: black;
+    color: white;
+}
+
+img {
+    width: 250px;
+}
+
+.planetContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3vw;
+}
+
+.planetCard {
+    width: 250px;
+}
